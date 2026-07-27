@@ -14,6 +14,13 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode,linux" />
 </p>
 
+**Hardware & Platforms**
+- ESP32
+- STM32
+- Raspberry Pi
+- PCB Design (KiCad/EasyEDA)
+- Sensors & IoT
+
 ## 🚀 Projects
 - ESP32 IoT Projects
 - Sensor Interfacing
