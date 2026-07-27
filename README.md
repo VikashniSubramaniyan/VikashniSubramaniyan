@@ -9,13 +9,10 @@
 - 🎯 Looking for Embedded Systems & IoT job Opportunities
 
 ## 🛠️ Skills
-- C
-- Embedded C
-- IoT
-- Python
-- Arduino
-- ESP32
-- Git & GitHub
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode,linux" />
+</p>
 
 ## 🚀 Projects
 - ESP32 IoT Projects
