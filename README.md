@@ -9,6 +9,12 @@
 - 🔧 Building projects using ESP32, Arduino, and sensors
 - 🌱 Learning Embedded C, PCB Design, and Git
 - 🎯 Looking for Embedded Systems & IoT Internship opportunities
+
+🌱 Currently Learning
+   • Embedded C
+   • FreeRTOS
+   • PCB Design
+   • Git & GitHub
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikashniSubramaniyan&show_icons=true&theme=tokyonight)
@@ -34,13 +40,15 @@
 - PCB Design (EasyEDA)
 - Sensors & IoT
 
+
 ## 🚀 Projects
-- ESP32 IoT Projects
-- Sensor Interfacing
-- Embedded Applications
+
+- 📡 **ESP32 Projects** – Collection of IoT and embedded projects using ESP32.
+
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/vikashni-subramaniyan1025
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikashni%20Subramaniyan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikashni-subramaniyan1025)
 
 ⭐ Thanks for visiting my profile!
 ![](https://komarev.com/ghpvc/?username=VikashniSubramaniyan&color=blue)
