@@ -31,9 +31,7 @@
 
 **Hardware & Platforms**
 - ESP32
-- STM32
-- Raspberry Pi
-- PCB Design (KiCad/EasyEDA)
+- PCB Design (EasyEDA)
 - Sensors & IoT
 
 ## 🚀 Projects
