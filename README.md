@@ -3,10 +3,25 @@
 🎓 Electronics and Communication Engineering Student at SRM Institute of Science and Technology
 
 ## 👩‍💻 About Me
-- 🌱 Currently learning Embedded Systems and IoT
-- 💡 Interested in ESP32, PCB Design, Sensors and Robotics
-- 🔭 Building Embedded and IoT projects
-- 🎯 Looking for Embedded Systems & IoT job Opportunities
+
+- 🎓 Final-year ECE student at SRM Institute of Science and Technology
+- 💻 Interested in Embedded Systems, IoT, and Firmware Development
+- 🔧 Building projects using ESP32, Arduino, and sensors
+- 🌱 Learning Embedded C, PCB Design, and Git
+- 🎯 Looking for Embedded Systems & IoT Internship opportunities
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikashniSubramaniyan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikashniSubramaniyan&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VikashniSubramaniyan&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+
+
 
 ## 🛠️ Skills
 
@@ -30,4 +45,5 @@
 - LinkedIn: www.linkedin.com/in/vikashni-subramaniyan1025
 
 ⭐ Thanks for visiting my profile!
+![](https://komarev.com/ghpvc/?username=VikashniSubramaniyan&color=blue)
 
